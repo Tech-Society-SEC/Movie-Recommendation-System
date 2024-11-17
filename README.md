@@ -111,8 +111,6 @@ Since the project starts from scratch, follow these steps to build Cinevo:
 
 - **TMDb API**: For access to extensive movie datasets.  
 - **React.js Community**: For libraries and tools that simplified development.  
-- **Inspiration**: Credit to my friend’s project, [Netflix Clone](https://github.com/fredie-nation/netflix.git), for motivating the structured approach.  
-
 ---
 
 ## License
