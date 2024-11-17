@@ -1,11 +1,13 @@
 
 # Cinevo - Movie Recommendation System  
 
-**Cinevo** is a personalized movie recommendation system designed to suggest movies based on user preferences and viewing history. Developed from scratch using React.js, machine learning algorithms, and integrated APIs, Cinevo provides an enhanced movie discovery experience with a user-friendly interface.
+   **Cinevo** is a personalized movie recommendation system designed to suggest movies based on user preferences and viewing history.
+
+   Developed from scratch using React.js, machine learning algorithms, and integrated APIs, Cinevo provides an enhanced movie discovery experience with a user-friendly interface.
 
 ---
 
-## Table of Contents  
+## Table of Contents :
 1. [Overview](#overview)  
 2. [Features](#features)  
 3. [Technologies Used](#technologies-used)  
@@ -13,16 +15,15 @@
 5. [Getting Started](#getting-started)  
 6. [Usage](#usage)  
 7. [Future Enhancements](#future-enhancements)  
-8. [Acknowledgments](#acknowledgments)  
-9. [License](#license)  
-
+8. [Acknowledgments](#acknowledgments) 
 ---
 
 ## Overview  
 Cinevo aims to improve how users discover and select movies by utilizing advanced recommendation algorithms. Starting from scratch, the project uses React.js for the frontend, integrates external APIs for fetching movie details, and employs machine learning for accurate recommendations.  
 
 For a quick walkthrough of how Cinevo operates, watch the reference video:  
-[![Cinevo Walkthrough](https://img.youtube.com/vi/S-vx9h1Q3_k/0.jpg)](https://youtu.be/S-vx9h1Q3_k?si=Rbk0Zj2B7KmjKufV)
+
+   [![Cinevo Walkthrough](https://img.youtube.com/vi/S-vx9h1Q3_k/0.jpg)](https://youtu.be/S-vx9h1Q3_k?si=Rbk0Zj2B7KmjKufV)
 
 ---
 
