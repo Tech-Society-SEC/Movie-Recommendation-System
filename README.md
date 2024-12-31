@@ -1,9 +1,9 @@
 
-# Cinevo - Movie Recommendation System  
+# Nexen - Movie Recommendation System  
 
-   **Cinevo** is a personalized movie recommendation system designed to suggest movies based on user preferences and viewing history.
+   **Nexen** is a personalized movie recommendation system designed to suggest movies based on user preferences and viewing history.
 
-   Developed from scratch using React.js, machine learning algorithms, and integrated APIs, Cinevo provides an enhanced movie discovery experience with a user-friendly interface.
+   Developed from scratch using React.js, machine learning algorithms, and integrated APIs, Nexen provides an enhanced movie discovery experience with a user-friendly interface.
 
 ---
 
@@ -19,11 +19,11 @@
 ---
 
 ## Overview  
-Cinevo aims to improve how users discover and select movies by utilizing advanced recommendation algorithms. Starting from scratch, the project uses React.js for the frontend, integrates external APIs for fetching movie details, and employs machine learning for accurate recommendations.  
+Nexen aims to improve how users discover and select movies by utilizing advanced recommendation algorithms. Starting from scratch, the project uses React.js for the frontend, integrates external APIs for fetching movie details, and employs machine learning for accurate recommendations.  
 
-For a quick walkthrough of how Cinevo operates, watch the reference video:  
+For a quick walkthrough of how Nexen operates, watch the reference video:  
 
-   [![Cinevo Walkthrough](https://img.youtube.com/vi/S-vx9h1Q3_k/0.jpg)](https://youtu.be/S-vx9h1Q3_k?si=Rbk0Zj2B7KmjKufV)
+   [![Nexen Walkthrough](https://img.youtube.com/vi/S-vx9h1Q3_k/0.jpg)](https://youtu.be/S-vx9h1Q3_k?si=Rbk0Zj2B7KmjKufV)
 
 ---
 
@@ -52,17 +52,17 @@ For a quick walkthrough of how Cinevo operates, watch the reference video:
 ---
 
 ## Getting Started  
-Since the project starts from scratch, follow these steps to build Cinevo:  
+Since the project starts from scratch, follow these steps to build Nexen:  
 
 1. **Set Up a New React Project**  
    Use Create React App to initialize your project:  
    ```bash  
-   npx create-react-app cinevo-movie-recommendation-system  
+   npx create-react-app Nexen-movie-recommendation-system  
    ```  
 
 2. **Navigate to the Project Directory**  
    ```bash  
-   cd cinevo-movie-recommendation-system  
+   cd Nexen-movie-recommendation-system  
    ```  
 
 3. **Install Dependencies**  
