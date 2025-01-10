@@ -19,11 +19,7 @@
 ---
 
 ## Overview  
-Nexen aims to improve how users discover and select movies by utilizing advanced recommendation algorithms. Starting from scratch, the project uses React.js for the frontend, integrates external APIs for fetching movie details, and employs machine learning for accurate recommendations.  
-
-For a quick walkthrough of how Nexen operates, watch the reference video:  
-
-   [![Nexen Walkthrough](https://img.youtube.com/vi/S-vx9h1Q3_k/0.jpg)](https://youtu.be/S-vx9h1Q3_k?si=Rbk0Zj2B7KmjKufV)
+Nexen aims to improve how users discover and select movies by utilizing advanced recommendation algorithms. Starting from scratch, the project uses React.js for the frontend, integrates external APIs for fetching movie details, and employs machine learning for accurate recommendations. 
 
 ---
 
